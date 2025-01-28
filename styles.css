@@ -1,0 +1,120 @@
+/* General Styles */
+:root {
+  --heading-font: "Poppins", sans-serif;
+  --description-font: "Open Sans", sans-serif;
+}
+
+body {
+  font-family: var(--description-font);
+  background-color: #f7ebe8;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  overflow-x: hidden;
+}
+
+.card h1,
+.card h2 {
+  font-family: var(--heading-font);
+  font-weight: 700; /* Bold for headings */
+  font-size: clamp(1.2rem, 4vw, 1.5rem); /* Responsive font size */
+}
+
+.card p {
+  font-family: var(--description-font);
+  font-weight: 400; /* Regular for descriptions */
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Header Card Styles */
+header .card {
+  background-color: #e8f5e9; /* Light green background */
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Center the text */
+  margin: 0 auto; /* Center the card horizontally */
+  max-width: 90%; /* Ensure it doesn't overflow on small screens */
+}
+
+header h1 {
+  font-family: var(--heading-font);
+  font-size: clamp(1.5rem, 5vw, 2.5rem); /* Responsive font size */
+  margin: 0;
+  color: #4caf50; /* Green color for the header */
+}
+
+/* Card Styles */
+.card {
+  background-color: white;
+  border-radius: 16px; /* Rounded corners */
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card h1 {
+  font-size: clamp(1.5rem, 5vw, 2.5rem); /* Responsive font size */
+  margin: 0;
+  color: #4caf50; /* Green color for the header */
+}
+
+.card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: clamp(0.9rem, 3vw, 1rem); /* Responsive font size */
+  color: #555;
+}
+
+/* Grid Layout */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.font-controls {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.font-controls label {
+  font-family: var(--description-font);
+  margin-right: 10px;
+}
+
+.font-controls select {
+  padding: 5px;
+  font-family: var(--description-font);
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+@media (min-width: 1200px) {
+  .grid-container {
+    grid-template-columns: repeat(4, 1fr); /* Max 4 columns on large screens */
+  }
+}
+@media (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+    padding: 10px;
+  }
+}
