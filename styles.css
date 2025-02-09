@@ -2,11 +2,15 @@
 :root {
   --heading-font: "Poppins", sans-serif;
   --description-font: "Open Sans", sans-serif;
+  --background-color: #f8f9fa;
+  --main-card-color: #e8f5e9;
+  --main-header-color: #4caf50;
+  --card-p-color: #555;
 }
 
 body {
   font-family: var(--description-font);
-  background-color: #f7ebe8;
+  background-color: var(--background-color);
   margin: 0;
   padding: 0;
   color: #333;
@@ -32,7 +36,7 @@ header {
 
 /* Header Card Styles */
 header .card {
-  background-color: #e8f5e9; /* Light green background */
+  background-color: var(--main-card-color); /* Light green background */
   border-radius: 16px;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -45,7 +49,7 @@ header h1 {
   font-family: var(--heading-font);
   font-size: clamp(1.5rem, 5vw, 2.5rem); /* Responsive font size */
   margin: 0;
-  color: #4caf50; /* Green color for the header */
+  color: var(--main-header-color); /* Green color for the header */
 }
 
 /* Card Styles */
@@ -76,7 +80,7 @@ header h1 {
 
 .card p {
   font-size: clamp(0.9rem, 3vw, 1rem); /* Responsive font size */
-  color: #555;
+  color: var(--card-p-color);
 }
 
 /* Grid Layout */
