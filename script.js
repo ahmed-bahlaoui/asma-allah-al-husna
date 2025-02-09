@@ -8,6 +8,7 @@ fetch("data.json")
       card.style.backgroundColor = getRandomColor();
       card.innerHTML = `
         <h2>${index + 1}. ${item.name}</h2>
+        <h2>${item.Arabic}</h2>
         <p><strong>${item.meaning}</strong></p>
         <p>${item.description}</p>
       `;

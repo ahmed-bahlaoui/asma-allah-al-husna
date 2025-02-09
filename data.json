@@ -2,501 +2,601 @@
   {
     "name": "Allah",
     "meaning": "The Greatest Name",
-    "description": "The name of the One True God, the Proper Name of the Divine Being. This name encompasses all divine attributes and is considered the greatest and most comprehensive of all Allah's names."
+    "description": "The name of the One True God, the Proper Name of the Divine Being. This name encompasses all divine attributes and is considered the greatest and most comprehensive of all Allah's names.",
+    "Arabic": "الله"
   },
   {
     "name": "Ar-Rahman",
     "meaning": "The Most Merciful",
-    "description": "The one whose mercy encompasses all of creation, extending to every living being regardless of faith or deed. This mercy is universal and unconditional in this life."
+    "description": "The one whose mercy encompasses all of creation, extending to every living being regardless of faith or deed. This mercy is universal and unconditional in this life.",
+    "Arabic": "الرحمن"
   },
   {
     "name": "Ar-Raheem",
     "meaning": "The Especially Merciful",
-    "description": "The one who shows special mercy to the believers, particularly in the hereafter. This mercy is specific and reserved for those who believe and do good deeds."
+    "description": "The one who shows special mercy to the believers, particularly in the hereafter. This mercy is specific and reserved for those who believe and do good deeds.",
+    "Arabic": "الرحيم"
   },
   {
     "name": "Al-Malik",
     "meaning": "The King, The Sovereign",
-    "description": "The absolute ruler and owner of all creation, whose sovereignty and authority are complete and eternal."
+    "description": "The absolute ruler and owner of all creation, whose sovereignty and authority are complete and eternal.",
+    "Arabic": "الملك"
   },
   {
     "name": "Al-Quddus",
     "meaning": "The Most Holy",
-    "description": "The one who is pure and free from any imperfection, defect, or deficiency. The absolutely pure without any blemish."
+    "description": "The one who is pure and free from any imperfection, defect, or deficiency. The absolutely pure without any blemish.",
+    "Arabic": "القدوس"
   },
   {
     "name": "As-Salam",
     "meaning": "The Source of Peace",
-    "description": "The one who is perfect in every way and free from any defects or flaws. The source of all peace and safety."
+    "description": "The one who is perfect in every way and free from any defects or flaws. The source of all peace and safety.",
+    "Arabic": "السلام"
   },
   {
     "name": "Al-Mu'min",
     "meaning": "The Guardian of Faith",
-    "description": "The one who provides security and confirms the truth of His promises. The giver of peace and security."
+    "description": "The one who provides security and confirms the truth of His promises. The giver of peace and security.",
+    "Arabic": "المؤمن"
   },
   {
     "name": "Al-Muhaymin",
     "meaning": "The Protector",
-    "description": "The one who watches over and protects all things. The guardian and witness over all creation."
+    "description": "The one who watches over and protects all things. The guardian and witness over all creation.",
+    "Arabic": "المهيمن"
   },
   {
     "name": "Al-Aziz",
     "meaning": "The Almighty",
-    "description": "The one who is mighty and invincible. The powerful one who overcomes all."
+    "description": "The one who is mighty and invincible. The powerful one who overcomes all.",
+    "Arabic": "العزيز"
   },
   {
     "name": "Al-Jabbar",
     "meaning": "The Compeller",
-    "description": "The one who repairs, improves, and makes things right. The supreme and irresistible."
+    "description": "The one who repairs, improves, and makes things right. The supreme and irresistible.",
+    "Arabic": "الجبار"
   },
   {
     "name": "Al-Mutakabbir",
     "meaning": "The Greatest",
-    "description": "The one who is supreme in glory, greatness, and majesty. The one who demonstrates His greatness in all things."
+    "description": "The one who is supreme in glory, greatness, and majesty. The one who demonstrates His greatness in all things.",
+    "Arabic": "المتكبر"
   },
   {
     "name": "Al-Khaliq",
     "meaning": "The Creator",
-    "description": "The one who brings things into existence from nothingness. The creator who has the power to design and create all things."
+    "description": "The one who brings things into existence from nothingness. The creator who has the power to design and create all things.",
+    "Arabic": "الخالق"
   },
   {
     "name": "Al-Bari",
     "meaning": "The Maker of Order",
-    "description": "The one who creates in perfect proportion and harmony. The maker who creates with no preexisting model."
+    "description": "The one who creates in perfect proportion and harmony. The maker who creates with no preexisting model.",
+    "Arabic": "البارئ"
   },
   {
     "name": "Al-Musawwir",
     "meaning": "The Shaper of Beauty",
-    "description": "The one who forms and shapes all things, giving them their unique characteristics and features."
+    "description": "The one who forms and shapes all things, giving them their unique characteristics and features.",
+    "Arabic": "المصور"
   },
   {
     "name": "Al-Ghaffar",
     "meaning": "The Repeatedly Forgiving",
-    "description": "The one who forgives again and again. The ever-forgiving who accepts repentance and pardons repeatedly."
+    "description": "The one who forgives again and again. The ever-forgiving who accepts repentance and pardons repeatedly.",
+    "Arabic": "الغفار"
   },
   {
     "name": "Al-Qahhar",
     "meaning": "The Subduer",
-    "description": "The one who prevails over all things. The dominator who has absolute power over all creation."
+    "description": "The one who prevails over all things. The dominator who has absolute power over all creation.",
+    "Arabic": "القهار"
   },
   {
     "name": "Al-Wahhab",
     "meaning": "The Giver of All",
-    "description": "The one who gives freely without any return. The bestower who gives unconditionally."
+    "description": "The one who gives freely without any return. The bestower who gives unconditionally.",
+    "Arabic": "الوهاب"
   },
   {
     "name": "Ar-Razzaq",
     "meaning": "The Provider",
-    "description": "The one who provides all sustenance. The sustainer who provides all creatures with what they need."
+    "description": "The one who provides all sustenance. The sustainer who provides all creatures with what they need.",
+    "Arabic": "الرزاق"
   },
   {
     "name": "Al-Fattah",
     "meaning": "The Opener",
-    "description": "The one who opens the way to victory and success. The opener of closed doors and remover of obstacles."
+    "description": "The one who opens the way to victory and success. The opener of closed doors and remover of obstacles.",
+    "Arabic": "الفتاح"
   },
   {
     "name": "Al-Alim",
     "meaning": "The All-Knowing",
-    "description": "The one who knows all things, hidden or apparent, past, present and future."
+    "description": "The one who knows all things, hidden or apparent, past, present and future.",
+    "Arabic": "العليم"
   },
   {
     "name": "Al-Qabid",
     "meaning": "The Constrictor",
-    "description": "The one who constricts and withholds. The one who restricts provision according to wisdom."
+    "description": "The one who constricts and withholds. The one who restricts provision according to wisdom.",
+    "Arabic": "القابض"
   },
   {
     "name": "Al-Basit",
     "meaning": "The Expander",
-    "description": "The one who releases, enlarges and expands. The one who increases provision for whom He wills."
+    "description": "The one who releases, enlarges and expands. The one who increases provision for whom He wills.",
+    "Arabic": "الباسط"
   },
   {
     "name": "Al-Khafid",
     "meaning": "The Abaser",
-    "description": "The one who lowers and diminishes. The one who brings down those who deserve to be brought down."
+    "description": "The one who lowers and diminishes. The one who brings down those who deserve to be brought down.",
+    "Arabic": "الخافض"
   },
   {
     "name": "Ar-Rafi",
     "meaning": "The Exalter",
-    "description": "The one who raises and elevates. The one who exalts in honor whom He wills."
+    "description": "The one who raises and elevates. The one who exalts in honor whom He wills.",
+    "Arabic": "الرافع"
   },
   {
     "name": "Al-Muizz",
     "meaning": "The Bestower of Honors",
-    "description": "The one who gives honor and dignity. The one who bestows respect and esteem."
+    "description": "The one who gives honor and dignity. The one who bestows respect and esteem.",
+    "Arabic": "المعز"
   },
   {
     "name": "Al-Mudhill",
     "meaning": "The Humiliator",
-    "description": "The one who humiliates and degrades. The one who brings low those who deserve to be brought low."
+    "description": "The one who humiliates and degrades. The one who brings low those who deserve to be brought low.",
+    "Arabic": "المذل"
   },
   {
     "name": "As-Sami",
     "meaning": "The All-Hearing",
-    "description": "The one who hears all things, even the most quiet or secret of sounds."
+    "description": "The one who hears all things, even the most quiet or secret of sounds.",
+    "Arabic": "السميع"
   },
   {
     "name": "Al-Basir",
     "meaning": "The All-Seeing",
-    "description": "The one who sees all things, even what is hidden or in darkness."
+    "description": "The one who sees all things, even what is hidden or in darkness.",
+    "Arabic": "البصير"
   },
   {
     "name": "Al-Hakam",
     "meaning": "The Judge",
-    "description": "The one who judges and gives verdict. The ultimate judge whose decisions are wise and just."
+    "description": "The one who judges and gives verdict. The ultimate judge whose decisions are wise and just.",
+    "Arabic": "الحكم"
   },
   {
     "name": "Al-Adl",
     "meaning": "The Just",
-    "description": "The one who is absolutely just in all dealings. The embodiment of perfect justice."
+    "description": "The one who is absolutely just in all dealings. The embodiment of perfect justice.",
+    "Arabic": "العدل"
   },
   {
     "name": "Al-Latif",
     "meaning": "The Subtle One",
-    "description": "The one who is gentle and subtle in actions. The most gracious who knows the finest details."
+    "description": "The one who is gentle and subtle in actions. The most gracious who knows the finest details.",
+    "Arabic": "اللطيف"
   },
   {
     "name": "Al-Khabir",
     "meaning": "The All-Aware",
-    "description": "The one who is fully aware of all things. The one who has full knowledge of the inner nature of all things."
+    "description": "The one who is fully aware of all things. The one who has full knowledge of the inner nature of all things.",
+    "Arabic": "الخبير"
   },
   {
     "name": "Al-Halim",
     "meaning": "The Forbearing",
-    "description": "The one who is clement and patient. The most forbearing who delays punishment of the wrongdoer."
+    "description": "The one who is clement and patient. The most forbearing who delays punishment of the wrongdoer.",
+    "Arabic": "الحليم"
   },
   {
     "name": "Al-Azim",
     "meaning": "The Magnificent",
-    "description": "The one who is mighty and magnificent. The possessor of absolute greatness."
+    "description": "The one who is mighty and magnificent. The possessor of absolute greatness.",
+    "Arabic": "العظيم"
   },
   {
     "name": "Al-Ghafur",
     "meaning": "The All-Forgiving",
-    "description": "The one who forgives extensively. The most forgiving who covers and forgives sins repeatedly."
+    "description": "The one who forgives extensively. The most forgiving who covers and forgives sins repeatedly.",
+    "Arabic": "الغفور"
   },
   {
     "name": "Ash-Shakur",
     "meaning": "The Most Appreciative",
-    "description": "The one who appreciates and multiplies rewards. The most thankful who rewards abundantly."
+    "description": "The one who appreciates and multiplies rewards. The most thankful who rewards abundantly.",
+    "Arabic": "الشكور"
   },
   {
     "name": "Al-Ali",
     "meaning": "The Most High",
-    "description": "The one who is transcendently high. The highest, above whom there is nothing."
+    "description": "The one who is transcendently high. The highest, above whom there is nothing.",
+    "Arabic": "العلي"
   },
   {
     "name": "Al-Kabir",
     "meaning": "The Greatest",
-    "description": "The one who is greater than all. The most great who is greater than everything in all aspects."
+    "description": "The one who is greater than all. The most great who is greater than everything in all aspects.",
+    "Arabic": "الكبير"
   },
   {
     "name": "Al-Hafiz",
     "meaning": "The Preserver",
-    "description": "The one who preserves and protects all things. The guardian who never neglects."
+    "description": "The one who preserves and protects all things. The guardian who never neglects.",
+    "Arabic": "الحفيظ"
   },
   {
     "name": "Al-Muqit",
     "meaning": "The Nourisher",
-    "description": "The one who creates and maintains all means of nourishment. The sustainer of all things."
+    "description": "The one who creates and maintains all means of nourishment. The sustainer of all things.",
+    "Arabic": "المقيت"
   },
   {
     "name": "Al-Hasib",
     "meaning": "The Reckoner",
-    "description": "The one who keeps account of all things. The sufficient one who takes care of all needs."
+    "description": "The one who keeps account of all things. The sufficient one who takes care of all needs.",
+    "Arabic": "الحسيب"
   },
   {
     "name": "Al-Jalil",
     "meaning": "The Majestic",
-    "description": "The one who possesses absolute majesty. The sublime one of ultimate glory."
+    "description": "The one who possesses absolute majesty. The sublime one of ultimate glory.",
+    "Arabic": "الجليل"
   },
   {
     "name": "Al-Karim",
     "meaning": "The Generous",
-    "description": "The one who is generous and gives abundantly. The most generous who gives without limit."
+    "description": "The one who is generous and gives abundantly. The most generous who gives without limit.",
+    "Arabic": "الكريم"
   },
   {
     "name": "Ar-Raqib",
     "meaning": "The Watchful",
-    "description": "The one who watches over and observes all things. The vigilant who never sleeps."
+    "description": "The one who watches over and observes all things. The vigilant who never sleeps.",
+    "Arabic": "الرقيب"
   },
   {
     "name": "Al-Mujib",
     "meaning": "The Responsive",
-    "description": "The one who responds to all supplications. The answerer of prayers and fulfiller of needs."
+    "description": "The one who responds to all supplications. The answerer of prayers and fulfiller of needs.",
+    "Arabic": "المجيب"
   },
   {
     "name": "Al-Wasi",
     "meaning": "The All-Encompassing",
-    "description": "The one whose knowledge and mercy encompasses all things. The vast and boundless."
+    "description": "The one whose knowledge and mercy encompasses all things. The vast and boundless.",
+    "Arabic": "الواسع"
   },
   {
     "name": "Al-Hakim",
     "meaning": "The Wise",
-    "description": "The one who is perfectly wise in all things. The source of all wisdom."
+    "description": "The one who is perfectly wise in all things. The source of all wisdom.",
+    "Arabic": "الحكيم"
   },
   {
     "name": "Al-Wadud",
     "meaning": "The Most Loving",
-    "description": "The one who is full of love and kindness. The most affectionate to His creation."
+    "description": "The one who is full of love and kindness. The most affectionate to His creation.",
+    "Arabic": "الودود"
   },
   {
     "name": "Al-Majid",
     "meaning": "The Most Glorious",
-    "description": "The one who is most glorious and noble. The possessor of perfect glory and honor."
+    "description": "The one who is most glorious and noble. The possessor of perfect glory and honor.",
+    "Arabic": "المجيد"
   },
   {
     "name": "Al-Baith",
     "meaning": "The Resurrector",
-    "description": "The one who brings the dead to life. The awakener who resurrects for accountability."
+    "description": "The one who brings the dead to life. The awakener who resurrects for accountability.",
+    "Arabic": "الباعث"
   },
   {
     "name": "Ash-Shahid",
     "meaning": "The Witness",
-    "description": "The one who witnesses all things. The ever-present witness to all things."
+    "description": "The one who witnesses all things. The ever-present witness to all things.",
+    "Arabic": "الشهيد"
   },
   {
     "name": "Al-Haqq",
     "meaning": "The Truth",
-    "description": "The one who is the absolute truth. The embodiment and source of all truth."
+    "description": "The one who is the absolute truth. The embodiment and source of all truth.",
+    "Arabic": "الحق"
   },
   {
     "name": "Al-Wakil",
     "meaning": "The Trustee",
-    "description": "The one who can be trusted in all affairs. The ultimate trustee and guardian."
+    "description": "The one who can be trusted in all affairs. The ultimate trustee and guardian.",
+    "Arabic": "الوكيل"
   },
   {
     "name": "Al-Qawi",
     "meaning": "The Most Strong",
-    "description": "The one who possesses all strength. The possessor of complete and perfect power."
+    "description": "The one who possesses all strength. The possessor of complete and perfect power.",
+    "Arabic": "القوي"
   },
   {
     "name": "Al-Matin",
     "meaning": "The Firm",
-    "description": "The one who is firm and unshakeable. The possessor of extreme strength."
+    "description": "The one who is firm and unshakeable. The possessor of extreme strength.",
+    "Arabic": "المتين"
   },
   {
     "name": "Al-Wali",
     "meaning": "The Protecting Friend",
-    "description": "The one who supports and protects. The guardian and helper of the believers."
+    "description": "The one who supports and protects. The guardian and helper of the believers.",
+    "Arabic": "الولي"
   },
   {
     "name": "Al-Hamid",
     "meaning": "The Praiseworthy",
-    "description": "The one who deserves all praise. The praised one whose glorification is established."
+    "description": "The one who deserves all praise. The praised one whose glorification is established.",
+    "Arabic": "الحميد"
   },
   {
     "name": "Al-Muhsi",
     "meaning": "The Counter",
-    "description": "The one who knows the number of all things. The calculator who encompasses everything in counting."
+    "description": "The one who knows the number of all things. The calculator who encompasses everything in counting.",
+    "Arabic": "المحصي"
   },
   {
     "name": "Al-Mubdi",
     "meaning": "The Originator",
-    "description": "The one who creates from nothing. The initiator of all things."
+    "description": "The one who creates from nothing. The initiator of all things.",
+    "Arabic": "المبدئ"
   },
   {
     "name": "Al-Muid",
     "meaning": "The Restorer",
-    "description": "The one who brings back to existence. The recreator who restores what was destroyed."
+    "description": "The one who brings back to existence. The recreator who restores what was destroyed.",
+    "Arabic": "المعيد"
   },
   {
     "name": "Al-Muhyi",
     "meaning": "The Giver of Life",
-    "description": "The one who gives life. The one who brings the dead to life."
+    "description": "The one who gives life. The one who brings the dead to life.",
+    "Arabic": "المحيي"
   },
   {
     "name": "Al-Mumit",
     "meaning": "The Bringer of Death",
-    "description": "The one who causes death. The taker of life at the appointed time."
+    "description": "The one who causes death. The taker of life at the appointed time.",
+    "Arabic": "المميت"
   },
   {
     "name": "Al-Hayy",
     "meaning": "The Ever Living",
-    "description": "The one who is eternally alive. The living one who never dies."
+    "description": "The one who is eternally alive. The living one who never dies.",
+    "Arabic": "الحي"
   },
   {
     "name": "Al-Qayyum",
     "meaning": "The Self-Subsisting",
-    "description": "The one who sustains everything. The self-subsisting upon whom all depend."
+    "description": "The one who sustains everything. The self-subsisting upon whom all depend.",
+    "Arabic": "القيوم"
   },
   {
     "name": "Al-Wajid",
     "meaning": "The Finder",
-    "description": "The one who finds what He seeks. The perceiver who finds everything He wants."
+    "description": "The one who finds what He seeks. The perceiver who finds everything He wants.",
+    "Arabic": "الواجد"
   },
   {
     "name": "Al-Majid",
     "meaning": "The Noble",
-    "description": "The one who is most glorious. The possessor of glory and honor."
+    "description": "The one who is most glorious. The possessor of glory and honor.",
+    "Arabic": "الماجد"
   },
   {
     "name": "Al-Wahid",
     "meaning": "The One",
-    "description": "The one who is unique and single. The one who has no partners or equals."
+    "description": "The one who is unique and single. The one who has no partners or equals.",
+    "Arabic": "الواحد"
   },
   {
     "name": "Al-Ahad",
     "meaning": "The Unique",
-    "description": "The one who is absolutely unique. The one and only, indivisible."
+    "description": "The one who is absolutely unique. The one and only, indivisible.",
+    "Arabic": "الأحد"
   },
   {
     "name": "As-Samad",
     "meaning": "The Eternal",
-    "description": "The one upon whom all depend. The eternal refuge who is independent of all needs."
+    "description": "The one upon whom all depend. The eternal refuge who is independent of all needs.",
+    "Arabic": "الصمد"
   },
   {
     "name": "Al-Qadir",
     "meaning": "The All Powerful",
-    "description": "The one who has power over all things. The able one who can do anything."
+    "description": "The one who has power over all things. The able one who can do anything.",
+    "Arabic": "القادر"
   },
   {
     "name": "Al-Muqtadir",
     "meaning": "The Creator of All Power",
-    "description": "The one who has absolute power. The determiner who has power over all things."
+    "description": "The one who has absolute power. The determiner who has power over all things.",
+    "Arabic": "المقتدر"
   },
   {
     "name": "Al-Muqaddim",
     "meaning": "The Expediter",
-    "description": "The one who brings forward. The promoter who brings whom He wills forward."
+    "description": "The one who brings forward. The promoter who brings whom He wills forward.",
+    "Arabic": "المقدم"
   },
   {
     "name": "Al-Muakhkhir",
     "meaning": "The Delayer",
-    "description": "The one who leaves behind. The postponer who puts whom He wills last."
+    "description": "The one who leaves behind. The postponer who puts whom He wills last.",
+    "Arabic": "المؤخر"
   },
   {
     "name": "Al-Awwal",
     "meaning": "The First",
-    "description": "The one who is first. The first before whom there is nothing."
+    "description": "The one who is first. The first before whom there is nothing.",
+    "Arabic": "الأول"
   },
   {
     "name": "Al-Akhir",
     "meaning": "The Last",
-    "description": "The one who is last. The last after whom there is nothing."
+    "description": "The one who is last. The last after whom there is nothing.",
+    "Arabic": "الآخر"
   },
   {
     "name": "Az-Zahir",
     "meaning": "The Manifest",
-    "description": "The one who is apparent. The outward who is evident through His signs."
+    "description": "The one who is apparent. The outward who is evident through His signs.",
+    "Arabic": "الظاهر"
   },
   {
     "name": "Al-Batin",
     "meaning": "The Hidden",
-    "description": "The one who is hidden. The inward whose essence cannot be comprehended."
+    "description": "The one who is hidden. The inward whose essence cannot be comprehended.",
+    "Arabic": "الباطن"
   },
   {
     "name": "Al-Wali",
     "meaning": "The Governor",
-    "description": "The one who governs and manages all affairs. The patron who supports and guides."
+    "description": "The one who governs and manages all affairs. The patron who supports and guides.",
+    "Arabic": "الوالي"
   },
   {
     "name": "Al-Muta'ali",
     "meaning": "The Most Exalted",
-    "description": "The one who is supremely transcendent. The most high who is above creation."
+    "description": "The one who is supremely transcendent. The most high who is above creation.",
+    "Arabic": "المتعالي"
   },
   {
     "name": "Al-Barr",
     "meaning": "The Source of All Goodness",
-    "description": "The one who is kind and righteous. The beneficent who treats creation with kindness."
+    "description": "The one who is kind and righteous. The beneficent who treats creation with kindness.",
+    "Arabic": "البر"
   },
   {
     "name": "At-Tawwab",
     "meaning": "The Ever-Returning",
-    "description": "The one who constantly turns in forgiveness. The acceptor of repentance."
+    "description": "The one who constantly turns in forgiveness. The acceptor of repentance.",
+    "Arabic": "التواب"
   },
   {
     "name": "Al-Muntaqim",
     "meaning": "The Avenger",
-    "description": "The one who victoriously avenges. The inflictor of retribution on wrongdoers."
+    "description": "The one who victoriously avenges. The inflictor of retribution on wrongdoers.",
+    "Arabic": "المنتقم"
   },
   {
     "name": "Al-Afuw",
     "meaning": "The Pardoner",
-    "description": "The one who pardons all. The effacer of sins who forgives totally."
+    "description": "The one who pardons all. The effacer of sins who forgives totally.",
+    "Arabic": "العفو"
   },
   {
     "name": "Ar-Ra'uf",
     "meaning": "The Compassionate",
-    "description": "The one who is full of kindness. The most kind and compassionate."
+    "description": "The one who is full of kindness. The most kind and compassionate.",
+    "Arabic": "الرؤوف"
   },
   {
     "name": "Malik-ul-Mulk",
     "meaning": "The Owner of All",
-    "description": "The one who owns all sovereignty. The eternal owner of all kingdoms."
+    "description": "The one who owns all sovereignty. The eternal owner of all kingdoms.",
+    "Arabic": "مالك الملك"
   },
   {
     "name": "Dhul-Jalal-wal-Ikram",
     "meaning": "The Lord of Majesty and Bounty",
-    "description": "The one possessing majesty and honor. The lord of majesty and generosity."
+    "description": "The one possessing majesty and honor. The lord of majesty and generosity.",
+    "Arabic": "ذو الجلال والإكرام"
   },
   {
     "name": "Al-Muqsit",
     "meaning": "The Equitable",
-    "description": "The one who acts with justice. The equitable who is just in all dealings."
+    "description": "The one who acts with justice. The equitable who is just in all dealings.",
+    "Arabic": "المقسط"
   },
   {
     "name": "Al-Jami",
     "meaning": "The Gatherer",
-    "description": "The one who brings together. The gatherer who unites all things."
+    "description": "The one who brings together. The gatherer who unites all things.",
+    "Arabic": "الجامع"
   },
   {
     "name": "Al-Ghani",
     "meaning": "The Self-Sufficient",
-    "description": "The one who is rich and independent. The wealthy who is free of all needs."
+    "description": "The one who is rich and independent. The wealthy who is free of all needs.",
+    "Arabic": "الغني"
   },
   {
     "name": "Al-Mughni",
     "meaning": "The Enricher",
-    "description": "The one who satisfies needs. The enricher who provides independence."
+    "description": "The one who satisfies needs. The enricher who provides independence.",
+    "Arabic": "المغني"
   },
   {
     "name": "Al-Mani",
     "meaning": "The Preventer",
-    "description": "The one who prevents and withholds. The defender who averts harm."
+    "description": "The one who prevents and withholds. The defender who averts harm.",
+    "Arabic": "المانع"
   },
   {
     "name": "Ad-Darr",
     "meaning": "The Creator of Harm",
-    "description": "The one who creates adversity. The creator of harm for whom He wills."
+    "description": "The one who creates adversity. The creator of harm for whom He wills.",
+    "Arabic": "الضار"
   },
   {
     "name": "An-Nafi",
     "meaning": "The Creator of Good",
-    "description": "The one who creates benefit. The creator of good for whom He wills."
+    "description": "The one who creates benefit. The creator of good for whom He wills.",
+    "Arabic": "النافع"
   },
   {
     "name": "An-Nur",
     "meaning": "The Light",
-    "description": "The one who is the light of the heavens and earth. The illuminator of all existence."
+    "description": "The one who is the light of the heavens and earth. The illuminator of all existence.",
+    "Arabic": "النور"
   },
   {
     "name": "Al-Hadi",
     "meaning": "The Guide",
-    "description": "The one who provides guidance. The guide who shows the right path."
+    "description": "The one who provides guidance. The guide who shows the right path.",
+    "Arabic": "الهادي"
   },
   {
     "name": "Al-Badi",
     "meaning": "The Originator",
-    "description": "The one who creates in unprecedented ways. The incomparable originator of all things."
+    "description": "The one who creates in unprecedented ways. The incomparable originator of all things.",
+    "Arabic": "البديع"
   },
   {
     "name": "Al-Baqi",
     "meaning": "The Everlasting",
-    "description": "The one who remains forever. The eternal who endures endlessly."
+    "description": "The one who remains forever. The eternal who endures endlessly.",
+    "Arabic": "الباقي"
   },
   {
     "name": "Al-Warith",
     "meaning": "The Inheritor",
-    "description": "The one who remains after all creation ceases. The ultimate inheritor of all things."
+    "description": "The one who remains after all creation ceases. The ultimate inheritor of all things.",
+    "Arabic": "الوارث"
   },
   {
     "name": "Ar-Rashid",
     "meaning": "The Guide to the Right Path",
-    "description": "The one who guides with wisdom. The director to the right way."
+    "description": "The one who guides with wisdom. The director to the right way.",
+    "Arabic": "الرشيد"
   },
   {
     "name": "As-Sabur",
     "meaning": "The Most Patient",
-    "description": "The one who is most patient. The most forbearing who never hastens punishment."
+    "description": "The one who is most patient. The most forbearing who never hastens punishment.",
+    "Arabic": "الصبور"
   }
 ]
